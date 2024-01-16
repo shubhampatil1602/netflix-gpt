@@ -1,7 +1,10 @@
-# Netflix GPT
+# Netflix GPT 1:20
 
 - Create React app
 - Configured Tailwind CSS
+- Header
+- Login form
+- Sign Up form
 
 # Features:
 
@@ -18,6 +21,11 @@
 - Netflix GPT
   - Search bar
   - Movie Suggestions
+
+# Suggestions:
+
+- Formik
+  - external library for handling forms
 
 ## Getting Started with Create React App
 
