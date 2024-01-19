@@ -1,6 +1,4 @@
-# <a href='https://netflixgpt-51e10.web.app/'>Live Link</a>
-
-# Netflix GPT 1:20
+# <a href='https://netflixgpt-51e10.web.app/'>Netflix Gpt</a>
 
 - Create React app
 - Configured Tailwind CSS
